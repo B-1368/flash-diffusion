@@ -2,7 +2,7 @@ EXP_NAME: FlashSDXL
 
 # Dataset
 SHARDS_PATH_OR_URLS:
-  - pipe:cat /path/to/tar/files/{000000..000010}.tar
+  - /home/ubuntu/00000.tar
 VALIDATION_PROMPTS:
   - A beautiful red car on the beach at sunset, 4k, photorealistic, awesome.
   - A blue pig in the space, cartoon style, funny, cute.
